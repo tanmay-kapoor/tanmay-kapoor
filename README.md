@@ -93,11 +93,13 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white&color=blueviolet)
 ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=flat&logo=webstorm&logoColor=white&color=0095D5)
+![Eclipse](https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=eclipseide&logoColor=white)
 
+### 🚀 Check Out My Latest Project
+[![Absolute Fitness 💪](https://img.shields.io/badge/Absolute%20Fitness%20💪-Click%20Here-brightgreen?style=for-the-badge)](https://absolute-fitness-frontend.netlify.app/)
 
 ### 🛠️ Tanmay's Github Stats:
 ![Tanmay's Github Stats](profile-3d-contrib/profile-night-green.svg)
-
 
 ###
 
@@ -107,12 +109,3 @@
   <a href="https://leetcode.com/u/tanmaykapoor/" target="_blank"><img alt="Leetcode" src="https://img.shields.io/badge/LeetCode-tanmaykapoor-yellow?logo=leetcode&logoColor=yellow"></a>
   <a href="https://www.hackerrank.com/profile/tanmaykapoor" target="_blank"><img alt="Leetcode" src="https://img.shields.io/badge/HackerRank-Tanmay-informational?logo=hackerrank&logoColor=brightgreen"></a>
 </p>
-
-###
-
-
-
-
-
-
-
