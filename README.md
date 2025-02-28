@@ -1,3 +1,7 @@
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=tanmay-kapoor&color=green">
+</p>
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7B93E&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;Building+cool+things+with+code!" alt="Typing SVG" />
 </div>
