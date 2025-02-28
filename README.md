@@ -92,26 +92,7 @@
 
 
 ### 🛠️ Tanmay's Github Stats:
-
-[//]: # (<div align="center">)
-
-[//]: # (  <img src="https://github-readme-stats.vercel.app/api?username=supratikchaudhuri&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />)
-
-[//]: # (  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=supratikchaudhuri&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />)
-
-[//]: # ()
-[//]: # (</div>)
-
-![Tanmay's Github Stats](./profile-3d-contrib/profile-green-animate.svg)
-![Tanmay's Github Stats](profile-3d-contrib/profile-green.svg)
-![Tanmay's Github Stats](profile-3d-contrib/profile-season-animate.svg)
-![Tanmay's Github Stats](profile-3d-contrib/profile-season.svg)
-![Tanmay's Github Stats](profile-3d-contrib/profile-south-season-animate.svg)
-![Tanmay's Github Stats](profile-3d-contrib/profile-south-season.svg)
-![Tanmay's Github Stats](profile-3d-contrib/profile-night-view.svg)
 ![Tanmay's Github Stats](profile-3d-contrib/profile-night-green.svg)
-![Tanmay's Github Stats](profile-3d-contrib/profile-night-rainbow.svg)
-![Tanmay's Github Stats](profile-3d-contrib/profile-gitblock.svg)
 
 
 ###
