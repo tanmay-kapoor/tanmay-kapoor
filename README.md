@@ -91,7 +91,7 @@
 ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=flat&logo=webstorm&logoColor=white&color=0095D5)
 
 
-###
+### 🛠️ Tanmay's Github Stats:
 
 [//]: # (<div align="center">)
 
@@ -102,9 +102,17 @@
 [//]: # ()
 [//]: # (</div>)
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/tanmay-kapoor/github-profile-3d-contrib/main/docs/demo.gif" alt="3D Contribution Graph" />
-</div>
+![Tanmay's Github Stats](./profile-3d-contrib/profile-green-animate.svg)
+![Tanmay's Github Stats](profile-3d-contrib/profile-green.svg)
+![Tanmay's Github Stats](profile-3d-contrib/profile-season-animate.svg)
+![Tanmay's Github Stats](profile-3d-contrib/profile-season.svg)
+![Tanmay's Github Stats](profile-3d-contrib/profile-south-season-animate.svg)
+![Tanmay's Github Stats](profile-3d-contrib/profile-south-season.svg)
+![Tanmay's Github Stats](profile-3d-contrib/profile-night-view.svg)
+![Tanmay's Github Stats](profile-3d-contrib/profile-night-green.svg)
+![Tanmay's Github Stats](profile-3d-contrib/profile-night-rainbow.svg)
+![Tanmay's Github Stats](profile-3d-contrib/profile-gitblock.svg)
+
 
 ###
 
