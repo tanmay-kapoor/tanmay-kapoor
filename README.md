@@ -96,7 +96,7 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=eclipseide&logoColor=white)
 
 ### 🚀 Check Out My Latest Project
-[![Absolute Fitness 💪](https://img.shields.io/badge/Absolute%20Fitness%20💪-Click%20Here-brightgreen?style=for-the-badge)](https://absolute-fitness-frontend.netlify.app/)
+[![Absolute Fitness 💪](https://img.shields.io/badge/Absolute%20Fitness%20💪-Click%20Here-brightgreen?style=flat)](https://absolute-fitness-frontend.netlify.app/)
 
 ### 🛠️ Tanmay's Github Stats:
 ![Tanmay's Github Stats](profile-3d-contrib/profile-night-green.svg)
