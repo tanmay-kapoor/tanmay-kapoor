@@ -103,7 +103,7 @@
 [//]: # (</div>)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/github-profile-3d-contrib/main/docs/demo.gif" alt="3D Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/tanmay-kapoor/github-profile-3d-contrib/main/docs/demo.gif" alt="3D Contribution Graph" />
 </div>
 
 ###
